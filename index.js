@@ -6,6 +6,3 @@ function destructivelyAppendDriver(){
   
 }
 
-function destructivelyAppendDriver() {
-  drivers.unshift('Bob');
-}
