@@ -1,7 +1,7 @@
 const drivers = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendDriver(){
-  drivers.push('ralph');
+  drivers.push('Ralph');
 
   
 }
