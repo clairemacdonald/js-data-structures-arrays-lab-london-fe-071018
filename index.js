@@ -5,3 +5,7 @@ function destructivelyAppendDriver(){
 
   
 }
+
+function destructivelyAppendDriver() {
+  drivers.pop('Bob');
+}
