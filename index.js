@@ -22,5 +22,5 @@ function appendDriver(name) {
 }
 
 function prependDriver(name) {
-  return drivers.concat(name);
+  return drivers.pop(name);
 }
