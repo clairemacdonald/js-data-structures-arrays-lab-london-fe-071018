@@ -24,3 +24,5 @@ function appendDriver(name) {
 function prependDriver(name) {
   return [name].concat(drivers);
 }
+
+function removeLastDriver()
