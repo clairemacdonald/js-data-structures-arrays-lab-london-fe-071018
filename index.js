@@ -1,3 +1,2 @@
-let driver = []
+let driver = ["Milo", "Otis", "Garfield"];
 
-driver = ["Milo", "Otis", "Garfield"]
