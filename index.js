@@ -26,5 +26,5 @@ function prependDriver(name) {
 }
 
 function removeLastDriver(name) {
-  return drivers.slice(1);
+  return drivers.slice(2);
 }
